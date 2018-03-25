@@ -6,3 +6,4 @@ Projekt zawiera prostą aplikację symbolizującą pracę małej fabryki metalow
 produkcją w niewielkim stopniu.
 
 Zastosowano w nim wzorzec projektowy - dekorator.
+Zawiera 4 interfejsy oraz 8 klas dziedziczących po nich, wraz z implementacjami funkcji dziedziczonej dla każdej z nich.
